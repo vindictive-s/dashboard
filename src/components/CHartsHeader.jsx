@@ -1,9 +1,9 @@
 import React from 'react'
 
-const CHartsHeader = () => {
+const ChartsHeader = () => {
   return (
-    <div>CHartsHeader</div>
+    <div>ChartsHeader</div>
   )
 }
 
-export default CHartsHeader
+export default ChartsHeader
