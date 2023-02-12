@@ -10,7 +10,7 @@ import {
 } from "../data/dummy";
 import { useStateContext } from "../contexts/ContextProvider";
 
-const Ecommerce = () => {
+const ECommerce = () => {
   return (
     <div className="mt-12">
       <div className="flex flex-wrap lg:flex-nowrap justify-center">
@@ -121,4 +121,4 @@ const Ecommerce = () => {
   );
 };
 
-export default Ecommerce;
+export default ECommerce;
